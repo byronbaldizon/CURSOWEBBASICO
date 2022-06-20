@@ -9,23 +9,31 @@ El objetivo del presente curso es brindar al estudiante una breve introducción 
 utilizadas en la programación web.
 
 ## OBJETIVOS ESPECIFICOS
-++ Que el estudiante aprenda los fundamentos de HTML5.
++ Que el estudiante aprenda los fundamentos de HTML5.
++ Introducir al estudiante a la semántica del HTML5.
++ Dar los fundamentos de CSS3 para estilos de la página web.
++ Dar una breve introducción sobre JavaScript.
++ Introduccir al estudiante en el uso de herramientas de versionado como GITHUB.
++ Que el estudiante aprenda el uso de los IDE'S más utilizados para el desarrollo web.
++ Uso de repositorios de imágenes: creación de cuenta del repositorio POSTIMAGE
++ Creación de la cuenta de FONTAWESOME para íconos: kit de iconos.
++ Creación de una cuenta en el servidor 000webhost para pruebas.
++ Uso de la herramienta FILEZILLA como cliente FTP para intercambio de archivos con el servidor remoto.
 
-++ Introducir al estudiante a la semántica del HTML5.
+## CLASE 1
++ HTML5: Explicación del BOILERPLATE de HTML5.
++ Etiquetas semánticas de HTML5.
++ Formas de aplicación de estilos: inline, en la seccion *head* y en hoja de estilos.  Uso de la etiqueta <link>
++ CSS3: Estructuración por filas y división en columnas
++ CSS3: Selectores: universal, etiquetas, id, clases.  Las pseudoclases.
++ CSS3: Color de fondo.  Color de letra.  Centrado de texto vertical y horizontal.
++ CSS3: Imágenes adaptativas.
++ CSS3: Media query.
++ Construcción de una barra de navegación adaptativa con menú de hamburguesa
 
-++ Dar los fundamentos de CSS3 para estilos de la página web
+ ### TAREA
 
-++ Dar una breve introducción sobre JavaSript.
-
-++ Introduccir al estudiante en el uso de herramientas de versionado como GITHUB
-
-++ Que el estudiante aprenda el uso de los IDE'S más utilizados para el desarrollo web.
-
-## SCOPE
-In order to keep the code as simple as possible, no validation nor error catching
-routines have been included.  :cry:
-
-## LIMITATIONS
+## CLASE
 + This app is only intended for small screen devices.  No efforts have been made for
 responsive design. 
 + Original sprites have a very low resolution and no efforts have been made to
